@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.0.1",
-  "downloadUrl": "https://github.com/manisacnc/titizatolyepro-updates/releases/download/v1.0.1/TitizAtolyePro-Setup-1.0.1.exe",
-  "sha256": "BURAYA_SHA256",
-  "releaseNotes": "Ilk otomatik guncelleme surumu."
+  "downloadUrl": "https://github.com/manisacnc/titizatolyepro-updates/releases/download/v1.0.1/TitizAtolyePro_Setup_1.0.1.exe",
+  "sha256": "3DDFC59699C75AB13C2DB7AEE5EFBA57359FBCA3083217797966EDEA0F1766C9",
+  "releaseNotes": "TitizAtolye Pro 1.0.1: logo, acilis ekrani, detayli tanitim rehberi ve lisans iyilestirmeleri eklendi."
 }
