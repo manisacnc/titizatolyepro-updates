@@ -1,7 +1,6 @@
 {
-  "latestVersion": "1.0.2",
-  "downloadUrl": "https://github.com/manisacnc/titizatolyepro-updates/releases/download/v1.0.2/TitizAtolyePro_Setup_1.0.2.exe",
-  "sha256": "887EEFE3CCCB1F84BCF511C057096A2C978C1E55084CA9D5DC28D81A002A9E97",
-  "releaseNotes": "TitizAtolye Pro 1.0.2: otomatik guncelleme manifest uyumlulugu guclendirildi, acilis ve tanitim iyilestirmeleri yapildi."
+  "latestVersion": "1.0.3",
+  "downloadUrl": "https://github.com/manisacnc/titizatolyepro-updates/releases/download/v1.0.3/TitizAtolyePro_Setup_1.0.3.exe",
+  "sha256": "2A713E1077AF47C9E55FDE73C7E6BB29342E9B5320242E74EB458E3095E9142B",
+  "releaseNotes": "TitizAtolye Pro 1.0.3 guncellemesi"
 }
-
