@@ -1,6 +1,3 @@
-{
-  "latestVersion": "1.0.3",
-  "downloadUrl": "https://github.com/manisacnc/titizatolyepro-updates/releases/download/v1.0.3/TitizAtolyePro_Setup_1.0.3.exe",
-  "sha256": "2A713E1077AF47C9E55FDE73C7E6BB29342E9B5320242E74EB458E3095E9142B",
-  "releaseNotes": "TitizAtolye Pro 1.0.3 guncellemesi"
-}
+latestVersion: 1.0.4
+downloadUrl: https://github.com/manisacnc/atolye58-updates/releases/download/v1.0.4/Atolye58Pro_Setup_1.0.4.exe
+sha256: C4F725545EBC0D194FBA548C6DB805F6332DA99B7C92FF3C45E55F395A936F70
