@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.5",
-  "downloadUrl": "https://github.com/manisacnc/titizatolyepro-updates/releases/download/v1.0.5/Atolye58Pro_Setup_1.0.5.exe",
-  "sha256": "02EB890167946661BE32232F839337E0C2144BDECDCEC0D85926FF36D310AE43",
-  "releaseNotes": "Atolye58 Pro 1.0.5: guncelleme URL duzeltmeleri ve kararlilik iyilestirmeleri."
+  "latestVersion": "1.0.6",
+  "downloadUrl": "https://github.com/manisacnc/titizatolyepro-updates/releases/download/v1.0.6/Atolye58Pro_Setup_1.0.6.exe",
+  "sha256": "1673FFC26044054763927B95615F42B229B5AEE6964300A1D1CCF1AF9A36B57D",
+  "releaseNotes": "Atolye58 Pro 1.0.6: guncelleme sistemi iyilestirmeleri ve kararlilik duzeltmeleri."
 }
